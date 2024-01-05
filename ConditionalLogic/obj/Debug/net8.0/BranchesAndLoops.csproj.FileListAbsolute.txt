@@ -1,0 +1,15 @@
+C:\Users\Nigel Omondi\Downloads\C#\ConditionalLogic\bin\Debug\net8.0\BranchesAndLoops.exe
+C:\Users\Nigel Omondi\Downloads\C#\ConditionalLogic\bin\Debug\net8.0\BranchesAndLoops.deps.json
+C:\Users\Nigel Omondi\Downloads\C#\ConditionalLogic\bin\Debug\net8.0\BranchesAndLoops.runtimeconfig.json
+C:\Users\Nigel Omondi\Downloads\C#\ConditionalLogic\bin\Debug\net8.0\BranchesAndLoops.dll
+C:\Users\Nigel Omondi\Downloads\C#\ConditionalLogic\bin\Debug\net8.0\BranchesAndLoops.pdb
+C:\Users\Nigel Omondi\Downloads\C#\ConditionalLogic\obj\Debug\net8.0\BranchesAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nigel Omondi\Downloads\C#\ConditionalLogic\obj\Debug\net8.0\BranchesAndLoops.AssemblyInfoInputs.cache
+C:\Users\Nigel Omondi\Downloads\C#\ConditionalLogic\obj\Debug\net8.0\BranchesAndLoops.AssemblyInfo.cs
+C:\Users\Nigel Omondi\Downloads\C#\ConditionalLogic\obj\Debug\net8.0\BranchesAndLoops.csproj.CoreCompileInputs.cache
+C:\Users\Nigel Omondi\Downloads\C#\ConditionalLogic\obj\Debug\net8.0\BranchesAndLoops.sourcelink.json
+C:\Users\Nigel Omondi\Downloads\C#\ConditionalLogic\obj\Debug\net8.0\BranchesAndLoops.dll
+C:\Users\Nigel Omondi\Downloads\C#\ConditionalLogic\obj\Debug\net8.0\refint\BranchesAndLoops.dll
+C:\Users\Nigel Omondi\Downloads\C#\ConditionalLogic\obj\Debug\net8.0\BranchesAndLoops.pdb
+C:\Users\Nigel Omondi\Downloads\C#\ConditionalLogic\obj\Debug\net8.0\BranchesAndLoops.genruntimeconfig.cache
+C:\Users\Nigel Omondi\Downloads\C#\ConditionalLogic\obj\Debug\net8.0\ref\BranchesAndLoops.dll
