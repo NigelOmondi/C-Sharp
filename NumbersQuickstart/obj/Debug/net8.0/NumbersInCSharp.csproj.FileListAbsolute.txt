@@ -1,0 +1,15 @@
+C:\Users\Nigel Omondi\Downloads\C#\NumbersQuickstart\bin\Debug\net8.0\NumbersInCSharp.exe
+C:\Users\Nigel Omondi\Downloads\C#\NumbersQuickstart\bin\Debug\net8.0\NumbersInCSharp.deps.json
+C:\Users\Nigel Omondi\Downloads\C#\NumbersQuickstart\bin\Debug\net8.0\NumbersInCSharp.runtimeconfig.json
+C:\Users\Nigel Omondi\Downloads\C#\NumbersQuickstart\bin\Debug\net8.0\NumbersInCSharp.dll
+C:\Users\Nigel Omondi\Downloads\C#\NumbersQuickstart\bin\Debug\net8.0\NumbersInCSharp.pdb
+C:\Users\Nigel Omondi\Downloads\C#\NumbersQuickstart\obj\Debug\net8.0\NumbersInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nigel Omondi\Downloads\C#\NumbersQuickstart\obj\Debug\net8.0\NumbersInCSharp.AssemblyInfoInputs.cache
+C:\Users\Nigel Omondi\Downloads\C#\NumbersQuickstart\obj\Debug\net8.0\NumbersInCSharp.AssemblyInfo.cs
+C:\Users\Nigel Omondi\Downloads\C#\NumbersQuickstart\obj\Debug\net8.0\NumbersInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Nigel Omondi\Downloads\C#\NumbersQuickstart\obj\Debug\net8.0\NumbersInCSharp.sourcelink.json
+C:\Users\Nigel Omondi\Downloads\C#\NumbersQuickstart\obj\Debug\net8.0\NumbersInCSharp.dll
+C:\Users\Nigel Omondi\Downloads\C#\NumbersQuickstart\obj\Debug\net8.0\refint\NumbersInCSharp.dll
+C:\Users\Nigel Omondi\Downloads\C#\NumbersQuickstart\obj\Debug\net8.0\NumbersInCSharp.pdb
+C:\Users\Nigel Omondi\Downloads\C#\NumbersQuickstart\obj\Debug\net8.0\NumbersInCSharp.genruntimeconfig.cache
+C:\Users\Nigel Omondi\Downloads\C#\NumbersQuickstart\obj\Debug\net8.0\ref\NumbersInCSharp.dll
