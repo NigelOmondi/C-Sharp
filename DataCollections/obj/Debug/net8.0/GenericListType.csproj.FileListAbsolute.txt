@@ -1,0 +1,15 @@
+C:\Users\Nigel Omondi\Downloads\C#\DataCollections\bin\Debug\net8.0\GenericListType.exe
+C:\Users\Nigel Omondi\Downloads\C#\DataCollections\bin\Debug\net8.0\GenericListType.deps.json
+C:\Users\Nigel Omondi\Downloads\C#\DataCollections\bin\Debug\net8.0\GenericListType.runtimeconfig.json
+C:\Users\Nigel Omondi\Downloads\C#\DataCollections\bin\Debug\net8.0\GenericListType.dll
+C:\Users\Nigel Omondi\Downloads\C#\DataCollections\bin\Debug\net8.0\GenericListType.pdb
+C:\Users\Nigel Omondi\Downloads\C#\DataCollections\obj\Debug\net8.0\GenericListType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nigel Omondi\Downloads\C#\DataCollections\obj\Debug\net8.0\GenericListType.AssemblyInfoInputs.cache
+C:\Users\Nigel Omondi\Downloads\C#\DataCollections\obj\Debug\net8.0\GenericListType.AssemblyInfo.cs
+C:\Users\Nigel Omondi\Downloads\C#\DataCollections\obj\Debug\net8.0\GenericListType.csproj.CoreCompileInputs.cache
+C:\Users\Nigel Omondi\Downloads\C#\DataCollections\obj\Debug\net8.0\GenericListType.sourcelink.json
+C:\Users\Nigel Omondi\Downloads\C#\DataCollections\obj\Debug\net8.0\GenericListType.dll
+C:\Users\Nigel Omondi\Downloads\C#\DataCollections\obj\Debug\net8.0\refint\GenericListType.dll
+C:\Users\Nigel Omondi\Downloads\C#\DataCollections\obj\Debug\net8.0\GenericListType.pdb
+C:\Users\Nigel Omondi\Downloads\C#\DataCollections\obj\Debug\net8.0\GenericListType.genruntimeconfig.cache
+C:\Users\Nigel Omondi\Downloads\C#\DataCollections\obj\Debug\net8.0\ref\GenericListType.dll
